@@ -1,4 +1,4 @@
-# Program in python to deifne a function and add two numbers
+# Program in python to define a function and add two numbers
 def add(a,b):
   return a+b
 a=int(input("Enter the number a:"))
